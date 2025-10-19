@@ -1,44 +1,43 @@
-<!-- Encabezado con nombre y título -->
 # ¡Hola, soy Cristina Mora Ramos! 👋
-## Estudiante de ASIR y Desarrolladora de Software
+## Técnica de Cloud Operations (CloudOps) | Automatización con IaaC y Evolución Metodológica PME
 
-<!-- Introducción -->
-Soy una estudiante apasionada de Administración de Sistemas Informáticos en Red (ASIR) y una entusiasta del desarrollo de software. Me encanta explorar nuevas tecnologías y enfrentar desafíos emocionantes para seguir mejorando mis habilidades.
+Profesional de Infraestructura Cloud (IaaS / PME) con más de año y medio de experiencia, especializada en la gestión de peticiones e incidencias en entornos críticos Multicloud (IBM Cloud y Azure). Mi valor reside en la combinación de habilidades técnicas en **Infraestructura como Código (Terraform)** con la mejora continua para impulsar la eficiencia operativa y la agilidad metodológica del equipo PME.
 
-<!-- Sección de tecnologías -->
-## Tecnologías y Lenguajes
+## Tecnologías y Plataformas Clave
 
-- ![](https://img.shields.io/badge/PHP-blue?style=flat-square&logo=php&logoColor=white)
-- ![](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
-- ![](https://img.shields.io/badge/CSS-blueviolet?style=flat-square&logo=css3&logoColor=white)
+- ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+- ![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+- ![](https://img.shields.io/badge/IBM%20Cloud-006699?style=flat-square&logo=ibm&logoColor=white)
+- ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 - ![](https://img.shields.io/badge/Bash-lightgrey?style=flat-square&logo=gnu-bash&logoColor=white)
-- ![](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java&logoColor=white)
 
-<!-- Proyectos Destacados -->
-## Proyectos Destacados
 
-### Infraestructura Kubernetes
+## Logros y Foco Profesional
 
-Recientemente, trabajé en un emocionante proyecto en el que diseñé y construí una robusta infraestructura basada en Kubernetes. Esta solución me permitió implementar y gestionar aplicaciones de manera eficiente y escalable.
+### Automatización y Mejora Continua en Cloud Operations
 
-<!-- Contacto -->
+Lidero la evolución del equipo PME mediante la creación de valor en tres áreas fundamentales:
+
+* **Automatización IaaS:** Implementación de Infraestructura como Código (IaaC) con Terraform para agilizar la ejecución de peticiones de infraestructura.
+* **Eficiencia Operativa:** Creación de documentación, análisis de eficiencia (gráficas/informes) y estandarización de procesos para el manejo ágil de peticiones y la resolución de incidencias.
+* **Gestión Crítica:** Experiencia en la resolución de incidencias complejas y en la transferencia de conocimiento en entornos IaaS de IBM Cloud y Azure.
+
+
 ## Contáctame
 
-¡Estoy emocionada de conectar contigo! Si estás interesado en alguno de mis proyectos o simplemente quieres charlar sobre desarrollo de software, no dudes en contactarme.
+¡Estoy emocionada de conectar contigo! Si estás interesado en alguno de mis proyectos o simplemente quieres charlar sobre Infraestructura Cloud, no dudes en contactarme.
 
 - Email: [cris.mora.ramos@gmail.com](mailto:cris.mora.ramos@gmail.com)
 - LinkedIn: [Cristina Mora Ramos](https://www.linkedin.com/in/cristina-mora-ramos/)
 - Sitio Web: [http://crismora.tplinkdns.com/](http://crismora.tplinkdns.com/)
 
-<!-- Acerca de mí -->
-## Acerca de mí
+## Objetivo de Carrera
 
-Actualmente, estoy en el proceso de completar mi carrera de ASIR, y mi objetivo es seguir creciendo como profesional y contribuir en proyectos emocionantes.
+Busco seguir profundizando mi especialización Multicloud y capitalizar mi experiencia en la estandarización de procesos, la gestión de Infraestructura como Código (IaaC) y la resolución de problemas complejos, aportando valor técnico y metodológico.
 
 ¡Gracias por visitar mi perfil! No olvides seguirme para estar al tanto de mis futuros proyectos y actualizaciones.
 
-<!-- Iconos de redes sociales -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristina-mora-ramos/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:cris.mora.ramos@gmail.com"><img src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/cristina-mora-ramos/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:cris.mora.ramos@gmail.com"><img src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail" alt="Email"></a>
 </p>
