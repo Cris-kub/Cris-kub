@@ -1,20 +1,21 @@
 # ¡Hola, soy Cristina Mora Ramos! 👋
-## Técnica de Cloud Operations (CloudOps) | Automatización con IaaC y Evolución Metodológica PME
+## Técnica de Cloud Operations (CloudOps) | Automatización IaaS con Terraform y Mejora Continua
 
-Profesional de Infraestructura Cloud (IaaS / PME) con más de año y medio de experiencia, especializada en la gestión de peticiones e incidencias en entornos críticos Multicloud (IBM Cloud y Azure). Mi valor reside en la combinación de habilidades técnicas en **Infraestructura como Código (Terraform)** con la mejora continua para impulsar la eficiencia operativa y la agilidad metodológica del equipo PME.
+Profesional de Infraestructura Cloud (IaaS / PME) con más de año y medio de experiencia, especializada en la gestión de peticiones e incidencias en entornos críticos Multicloud (IBM Cloud y Azure). Mi valor reside en la combinación de habilidades técnicas en **Infraestructura como Código (Terraform)** con la mejora continua para **impulsar la eficiencia operativa y la agilidad metodológica del equipo PME**, reduciendo la carga de peticiones manuales.
 
 ## Tecnologías y Plataformas Clave
 
 - ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 - ![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 - ![](https://img.shields.io/badge/IBM%20Cloud-006699?style=flat-square&logo=ibm&logoColor=white)
+- ![](https://img.shields.io/badge/IaaS-004488?style=flat-square&logo=cloud&logoColor=white)
+- ![](https://img.shields.io/badge/Automatizaci%C3%B3n-FF69B4?style=flat-square&logo=autodesk&logoColor=white)
+- ![](https://img.shields.io/badge/Agile-007ACC?style=flat-square&logo=scrumalliance&logoColor=white)
 - ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 - ![](https://img.shields.io/badge/Bash-lightgrey?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
 ## Logros y Foco Profesional
-
-### Automatización y Mejora Continua en Cloud Operations
 
 Lidero la evolución del equipo PME mediante la creación de valor en tres áreas fundamentales:
 
@@ -22,6 +23,12 @@ Lidero la evolución del equipo PME mediante la creación de valor en tres área
 * **Eficiencia Operativa:** Creación de documentación, análisis de eficiencia (gráficas/informes) y estandarización de procesos para el manejo ágil de peticiones y la resolución de incidencias.
 * **Gestión Crítica:** Experiencia en la resolución de incidencias complejas y en la transferencia de conocimiento en entornos IaaS de IBM Cloud y Azure.
 
+### Labs y Demos de Infraestructura (Ejemplos de IaaC)
+
+Si bien mi trabajo principal es crítico y privado, mantengo repositorios de prueba para la automatización:
+
+- [Demo] Automatización de Máquina Virtual en Azure con Terraform (Link a tu repo demo)
+- [Demo] Gestión de Networking Básico en IBM Cloud (Link a tu repo demo)
 
 ## Contáctame
 
