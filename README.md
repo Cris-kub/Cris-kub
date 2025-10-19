@@ -17,18 +17,11 @@ Profesional de Infraestructura Cloud (IaaS / PME) con más de año y medio de ex
 
 ## Logros y Foco Profesional
 
-Lidero la evolución del equipo PME mediante la creación de valor en tres áreas fundamentales:
+Copero en la evolución del equipo PME mediante la creación de valor en tres áreas fundamentales:
 
 * **Automatización IaaS:** Implementación de Infraestructura como Código (IaaC) con Terraform para agilizar la ejecución de peticiones de infraestructura.
 * **Eficiencia Operativa:** Creación de documentación, análisis de eficiencia (gráficas/informes) y estandarización de procesos para el manejo ágil de peticiones y la resolución de incidencias.
 * **Gestión Crítica:** Experiencia en la resolución de incidencias complejas y en la transferencia de conocimiento en entornos IaaS de IBM Cloud y Azure.
-
-### Labs y Demos de Infraestructura (Ejemplos de IaaC)
-
-Si bien mi trabajo principal es crítico y privado, mantengo repositorios de prueba para la automatización:
-
-- [Demo] Automatización de Máquina Virtual en Azure con Terraform (Link a tu repo demo)
-- [Demo] Gestión de Networking Básico en IBM Cloud (Link a tu repo demo)
 
 ## Contáctame
 
